@@ -1,0 +1,3 @@
+Vorbereitung GIT
+Hallo
+git pushen
